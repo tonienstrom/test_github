@@ -10,7 +10,7 @@ _a student in aalto university of art and design._
   * Autodesk 3dsmax
   * Autodesk Softimage
   * Blender 3D
-<br />
+<br /><br />
 * __graphic design__
   * Adobe InDesign
   * Adobe Photoshop
