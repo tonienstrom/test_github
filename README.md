@@ -5,11 +5,11 @@ _a student in aalto university of art and design._
 
 
 ### background
-* 3d animation
+* __3d animation__
   * Autodesk 3dsmax
   * Autodesk Softimage
   * Blender 3D
-* graphic design
+* __graphic design__
   * Adobe InDesign
   * Adobe Photoshop
   * Adobe Illustrator
