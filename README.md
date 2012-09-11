@@ -15,5 +15,6 @@ _a student in aalto university of art and design._
   * Adobe InDesign
   * Adobe Photoshop
   * Adobe Illustrator
-
-<a href="http://nstrm.com">nstrm.com</a>
+<br /><br />
+* __website__
+  * <a href="http://nstrm.com">nstrm.com</a>
