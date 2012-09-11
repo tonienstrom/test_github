@@ -2,7 +2,7 @@
 #toni enstrom
 _a student in aalto university school of art and design._
 
-![my portrait](its me.jpg)
+![my portrait](itsme.jpg)
 
 ### background
 
