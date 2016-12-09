@@ -8,7 +8,4 @@ Building instructions (for lego model): <a href="http://www.aupress.ca/books/120
 Page 24 has a picture of how the proportions of a leg should be.
 <br/><br/>
 I'm not sure, but think a similar walkable strandbeest could be made with laser printer, by cutting carefully measured parts out of wood or plastic. This can be complex project, though.
-<br/><br/>
-##2 Weatherproof case for my android phone, attachable to bicycle handlebars <br/>
-This would probably be a laser cutter project as well. Some kind of a transparent see-through hard plastic case for a mobile device that can be attached to bicycle handlebar. Usage would be so, that the biker could easily use the phone as a camera, navigator/speed meter, clock, etc. while biking, plus the case would also protect the device from rain.
-
+<br/>
