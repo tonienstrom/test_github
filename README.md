@@ -1,5 +1,6 @@
 
 #toni enstrom
+_a co-founder and game developer in tree men games._
 _a student in aalto university school of art and design._
 
 <img src="https://raw.github.com/tonienstrom/testgithub/master/itsme.jpg">
